@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.75633c83.css",
+    "main.js": "/static/js/main.cf1c4150.js",
+    "static/media/pt3.png": "/static/media/pt3.189f9844330a784698e3.png",
+    "static/media/pt1.png": "/static/media/pt1.a7d23901ef5e6fb94246.png",
+    "static/media/pt2.png": "/static/media/pt2.c036de8bfa51f3020304.png",
+    "static/media/Vishal_Barnwal_2102288_Btech.pdf": "/static/media/Vishal_Barnwal_2102288_Btech.cb41677b44947835738f.pdf",
+    "static/media/me1.png": "/static/media/me1.56eddcb00b7958183f53.png",
+    "static/media/pt4.jpg": "/static/media/pt4.4e3b54671d19ced19b35.jpg",
+    "static/media/3rd.jpeg": "/static/media/3rd.00d26cfa7c1d62f82b16.jpeg",
+    "index.html": "/index.html",
+    "main.75633c83.css.map": "/static/css/main.75633c83.css.map",
+    "main.cf1c4150.js.map": "/static/js/main.cf1c4150.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75633c83.css",
+    "static/js/main.cf1c4150.js"
+  ]
+}
